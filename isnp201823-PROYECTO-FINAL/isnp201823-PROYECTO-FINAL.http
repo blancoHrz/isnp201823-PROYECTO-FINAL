@@ -1,0 +1,6 @@
+@isnp201823_PROYECTO_FINAL_HostAddress = http://localhost:5181
+
+GET {{isnp201823_PROYECTO_FINAL_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
